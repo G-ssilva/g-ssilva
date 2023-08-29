@@ -4,7 +4,7 @@
 
 - 🔭 Hoje trabalho como Analista de Suporte N3
 - 🌱 Estou estudando Java e JavaScript
-- 👨‍💻 Em busca de se tornar um grande DEV
+- 👨‍💻 Em busca de me tornar um grande DEV
   
 <div> 
   <a href="https://www.instagram.com/guissilva_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
