@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-ssilva&layout=compact&theme=radical)
 
 - 🔭 Hoje trabalho como Analista de Requisitos
-- 🌱 Estou estudando backend (java) e frontend (javascript)
+- 🌱 Estou estudando Backend (Java) e Frontend (Javascript)
 - 👨‍💻 Em busca de me tornar um grande DEV
   
 <div> 
