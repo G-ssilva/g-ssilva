@@ -2,9 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-ssilva&layout=compact&theme=radical)
 
-- 🔭 Hoje trabalho como Analista de Requisitos
-- 🌱 Estou estudando Backend (Java) e Frontend (Javascript)
-- 👨‍💻 Em busca de me tornar um grande DEV
+- 👨‍💻 Desenvolvedor FullStack
+- 🌱 Java, Velocity, SQL
   
 <div> 
   <a href="https://www.instagram.com/guissilva_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
